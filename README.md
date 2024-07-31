@@ -105,6 +105,3 @@ npm run transfer
 - Copy the address and paste the address in testnet dashboard
 - push this project to your github and paste your repository link in testnet dashboard
 
-
-//0x7FbD2a4B332F7219b210985894b56243e8e03c31
-# swisstronik-erc20-mint
