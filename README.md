@@ -2,22 +2,10 @@
 
 link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
-Feel free donate to my EVM address
-
-EVM :
-
-```bash
-0x7FbD2a4B332F7219b210985894b56243e8e03c31
-```
-
 ## Steps
 
 ### 1. Clone Repository
-
-```bash
-git clone https://github.com//swisstronik-erc20-mint-token.git
-```
-
+clone repo and then
 ```
 cd swisstronik-erc20-mint-token
 ```
